@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Kang'acha</h1>
-<h3 align="center">I an m an ambitious and passionate software engineer</h3>
+<h3 align="center">I am an ambitious and passionate software engineer</h3>
 
 - 💬 Ask me about **Java, JS, HTML, CSS, React**
 
