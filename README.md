@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor Kang'acha</h1>
-<h3 align="center">I am an ambitious and passionate software engineer</h3>
+<h3 align="center">Software developer</h3>
+<p>I am a tech enthuastic, ambitious and passionate fullstack software developer who is willing to bring the best out of the projects that I work on. I develop and maintain software application using well thought and unique techniques.</p>
 
-- 💬 Ask me about **Java, JS, HTML, CSS, React**
+- 💬 Ask me about **Java, Frontend development**
  #
 
 - 📫 How to reach me **victorkangacha@gmail.com**
