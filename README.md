@@ -2,6 +2,7 @@
 <h3 align="center">I am an ambitious and passionate software engineer</h3>
 
 - 💬 Ask me about **Java, JS, HTML, CSS, React**
+- #
 
 - 📫 How to reach me **victorkangacha@gmail.com**
 
