@@ -25,8 +25,4 @@
 
  ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=macmini62&show_icons=true&locale=en&layout=compact" alt="macmini62" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macmini62&show_icons=true&locale=en" alt="macmini62" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macmini62&" alt="macmini62" /></p>
+![Macmini62's GitHub stats](https://github-readme-stats.vercel.app/api?username=macmini62&theme=vue-dark&show_icons=true)
