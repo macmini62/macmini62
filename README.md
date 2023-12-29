@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor Kang'acha</h1>
 <h3 align="center">Software developer</h3>
 <p>I am a tech enthuastic, ambitious and passionate fullstack software developer who is willing to bring the best out of the projects that I work on. I develop and maintain software application using well thought and unique techniques.</p>
-
+#
 - 💬 Ask me about **Java, Frontend development**
- #
-
 - 📫 How to reach me **victorkangacha@gmail.com**
-
+#
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tollar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tollar99" height="30" width="40" /></a>
