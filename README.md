@@ -1,9 +1,9 @@
 # 🤓 Victor Kang'acha
-<h3 align="center">Software developer</h3>
-<p>I am a tech enthuastic, ambitious and passionate fullstack software developer who is willing to bring the best out of the projects that I work on. I develop and maintain software application using well thought and unique techniques.</p>
+<h3 align="center">Software Engineer</h3>
+<p>I am a tech enthuastic, ambitious and passionate fullstack software engineer who is willing to bring the best out of the projects that I work on. I develop and maintain software application using well thought and unique techniques.</p>
 
 - 💻 I love coding...
-- 💬 Ask me about **Java, Frontend development, android**
+- 💬 Ask me about **Java,Software Engineering,Frontend development,android**
 - 📫 How to reach me **victorkangacha@gmail.com**
  #
  
