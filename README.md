@@ -3,7 +3,7 @@
 <p>I am a tech enthuastic, ambitious and passionate fullstack software engineer who is willing to bring the best out of the projects that I work on. I develop and maintain software application using well thought and unique techniques.</p>
 
 - 💻 I love coding...
-- 💬 Ask me about **Java,Software Engineering,Frontend development,android**
+- 💬 Ask me about **Java, Software Engineering, Frontend and Backend development, android, Tech.**
 - 📫 How to reach me **victorkangacha@gmail.com**
  #
  
