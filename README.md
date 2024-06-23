@@ -1,4 +1,4 @@
-# 🤓 Victor Kang'acha
+# 🤓 Viktor
 <h3 align="center">Software Engineer</h3>
 <p>I am a tech enthuastic, ambitious and passionate fullstack software engineer who is willing to bring the best out of the projects that I work on. I develop and maintain software application using well thought and unique techniques.</p>
 
