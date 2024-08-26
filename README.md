@@ -5,6 +5,7 @@
 - 💻 I love coding...
 - 💬 Ask me about **Software Engineering, Java, Frontend and Backend development, MERN Stack, android, Tech.**
 - 📫 How to reach me **victorkangacha@gmail.com**
+- LinkedIn **www.linkedin.com/in/victorkangacha**
  #
  
 <h3 align="left">Languages and Tools:</h3>
