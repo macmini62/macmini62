@@ -9,16 +9,10 @@
  #
  
 <h3 align="left">Languages and Tools:</h3>
-<img align="left" width="30px" style="padding-right:10px;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />     
 <br />
-
- ---
-
-![Macmini62's GitHub stats](https://github-readme-stats.vercel.app/api?username=macmini62&theme=vue-dark&show_icons=true)
